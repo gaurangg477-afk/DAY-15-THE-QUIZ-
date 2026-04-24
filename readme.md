@@ -90,3 +90,6 @@ Fetch questions from an API
 Add difficulty levels
 
 Implement a graphical user interface (GUI)
+
+## Author 
+Gaurang Sharma
